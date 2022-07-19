@@ -1,0 +1,10 @@
+2022-07-19 18:10:05.999 ERROR 5692 --- [http-nio-8080-exec-3] com.bosonit.BS5.controller               : Error en controller
+2022-07-19 18:10:06.176 ERROR 5692 --- [http-nio-8080-exec-2] com.bosonit.BS5.controller               : Error en controller
+2022-07-19 18:10:06.489 ERROR 5692 --- [http-nio-8080-exec-4] com.bosonit.BS5.controller               : Error en controller
+2022-07-19 18:10:06.646 ERROR 5692 --- [http-nio-8080-exec-5] com.bosonit.BS5.controller               : Error en controller
+2022-07-19 18:10:06.801 ERROR 5692 --- [http-nio-8080-exec-6] com.bosonit.BS5.controller               : Error en controller
+2022-07-19 18:10:06.986 ERROR 5692 --- [http-nio-8080-exec-7] com.bosonit.BS5.controller               : Error en controller
+2022-07-19 18:10:07.188 ERROR 5692 --- [http-nio-8080-exec-8] com.bosonit.BS5.controller               : Error en controller
+2022-07-19 18:10:07.395 ERROR 5692 --- [http-nio-8080-exec-9] com.bosonit.BS5.controller               : Error en controller
+2022-07-19 18:10:07.578 ERROR 5692 --- [http-nio-8080-exec-10] com.bosonit.BS5.controller               : Error en controller
+2022-07-19 18:10:07.781 ERROR 5692 --- [http-nio-8080-exec-1] com.bosonit.BS5.controller               : Error en controller

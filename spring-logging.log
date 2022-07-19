@@ -1,0 +1,8 @@
+2022-07-19 18:12:50.933 ERROR 77572 --- [http-nio-8080-exec-3] com.bosonit.BS5.controller               : Error en controller
+2022-07-19 18:12:51.142 ERROR 77572 --- [http-nio-8080-exec-4] com.bosonit.BS5.controller               : Error en controller
+2022-07-19 18:12:51.353 ERROR 77572 --- [http-nio-8080-exec-5] com.bosonit.BS5.controller               : Error en controller
+2022-07-19 18:12:51.696 ERROR 77572 --- [http-nio-8080-exec-6] com.bosonit.BS5.controller               : Error en controller
+2022-07-19 18:12:51.920 ERROR 77572 --- [http-nio-8080-exec-7] com.bosonit.BS5.controller               : Error en controller
+2022-07-19 18:12:52.142 ERROR 77572 --- [http-nio-8080-exec-8] com.bosonit.BS5.controller               : Error en controller
+2022-07-19 18:12:52.323 ERROR 77572 --- [http-nio-8080-exec-9] com.bosonit.BS5.controller               : Error en controller
+2022-07-19 18:12:52.505 ERROR 77572 --- [http-nio-8080-exec-10] com.bosonit.BS5.controller               : Error en controller
